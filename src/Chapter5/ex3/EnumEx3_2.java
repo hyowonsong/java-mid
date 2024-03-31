@@ -1,5 +1,6 @@
 package Chapter5.ex3;
 
+// 열거형은 외부 생성 불가!!
 public class EnumEx3_2 {
     public static void main(String[] args) {
         int price = 10000;
