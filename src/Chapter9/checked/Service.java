@@ -1,8 +1,5 @@
 package Chapter9.checked;
 
-import Chapter9.checked.Client;
-import Chapter9.checked.MyCheckedException;
-
 /**
  * Checked 예외는
  * 예외를 잡아서 처리하거나, 던지거나 둘중 하나를 필수로 선택해야 한다.
